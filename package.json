@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
+  "test": "npx playwright test"
+},
+  "author": "Hubert Mouton",
   "license": "ISC",
-  "description": "",
+  "description": "This is for my Auxilia QA Engineer Take Home Test",
   "devDependencies": {
     "@types/node": "^22.10.2",
     "playwright-core": "^1.49.1",
